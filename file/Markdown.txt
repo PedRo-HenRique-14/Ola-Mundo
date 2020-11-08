@@ -1,0 +1,68 @@
+# Titulo nível 1
+## Titulo nível 2
+### Titulo nível 3
+
+--- ou ***(linha)
+
+**Negrito** __Negrito__
+*Italico*
+~~Riscado~~
+__*Negrito Italico*__
+
+[Texto](URL)
+
+:nome do emoji
+
+
+Escrita de comando:
+
+`a = int(input())`
+
+
+```
+a = int(input("Numero"))
+b = int(input("Numero"))
+soma = a + b
+
+if soma >= 0:
+    print("A soma é {} e é positivo".format(soma))
+else:
+    print("A soma é {} e é negativo".format(soma))
+```
+
+
+Lista numerada:
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. sub item do Item 3
+   1. sub item 2 do Item 3
+1. Item 4
+1. Item 5
+
+
+Lista demarcada:
+
+* Item 1
+* Item 2
+* Item 3
+   * Sub item do Item 3
+* Item 4
+* Item 5
+
+
+Lista de tarefas:
+
+- [ ] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
+- [x] Tarefa 4 (Concluido)
+- [ ] Tarefa 5
+
+
+Tabela:
+
+Coluna 1 | Coluna 2 | Coluna 3
+---|---|---
+Conteudo Coluna 1 | Conteudo Coluna 2 | Conteudo Coluna 3
