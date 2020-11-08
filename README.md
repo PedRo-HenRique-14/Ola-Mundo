@@ -1,9 +1,3 @@
 # Olá Mundo
- Primeiro repositório criado
 
-Primeira edição do README!
-
-
-**REPOSITÓRIO DE ESTUDO**
-
-Esse repositório está destinado os meus estudos de git e GitHub, seguindo as aulas do canal do YouTube **Curso em Vídeo**
+Esse repositório está destinado os meus estudos de git e GitHub, seguindo as [aulas](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) do canal [Curso em Vídeo](https://www.youtube.com/user/cursosemvideo) no *YouTube*
